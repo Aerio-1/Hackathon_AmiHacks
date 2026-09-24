@@ -1,0 +1,2 @@
+-- Demo records are intentionally supplied by the browser demo store so this seed can run without auth UUID fixtures.
+-- Add production auth users first, then insert Jaipur organizations, shelter_profiles, drivers and donations through the tables in the initial migration.
